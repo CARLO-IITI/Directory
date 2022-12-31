@@ -10,18 +10,18 @@
 .nav button{
   width: 24.5vw;
   border-radius: 20px 20px 0 0;
-  background-color: #49a32b;
+  background-color: #2b33a3;
   color: white;
   border: none;
   padding: 10px;
   font-size: 1.25rem;
   cursor: pointer;
-  border: 1px solid #49a32b;
+  border: 1px solid #2b33a3;
 }
 
 .nav button:hover{
   background-color: white;
-  color: #49a32b;
+  color: #2b33a3;
 }
 
 .main{
@@ -32,7 +32,7 @@
 
 .main h1{
   margin-top: 70px;
-  color: #49a32b;
+  color: #2b33a3;
 }
 
 .main input{
@@ -51,10 +51,10 @@
 .a p{
   font-size: 1.25em;
   font-weight: bold;
-  color: #49a32b;    margin: 0;
+  color: #2b33a3;    margin: 0;
 }
 
 thead{
-  color: #49a32b;
+  color: #2b33a3;
   font-weight: bold;
 }

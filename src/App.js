@@ -22,7 +22,7 @@ function App() {
         <tbody>{names.map((name,idx) => {
           return (
             <tr>
-            <td>{idx}</td>
+            <td>{idx+1}</td>
               <td>{name.name}</td>
               <td>{name.phone}</td>
               <td>{name.address}</td>
